@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://twitter.com/fikadubekele15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fikadubekele15" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/cybratory et" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cybratory et" height="30" width="40" /></a>
-<a href="https://
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
