@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50"> I'm FIKADU BEKELE</h1>
-<h3 align="center">A passionate full stack Developer in ethiopia</h3>
+<h3 align="center">A passionate full stack Developer in Ethiopia</h3>
 <p align="left"> <a href="https://twitter.com/fikadubekele15" target="blank"><img src="https://img.shields.io/twitter/follow/fikadubekele15?logo=twitter&style=for-the-badge" alt="fikadubekele15" /></a> </p>
 
 - 🔭 I’m currently working on **Netlink Technologies**
