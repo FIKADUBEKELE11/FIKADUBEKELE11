@@ -3,7 +3,7 @@
 <h3 align="center">A passionate full stack Developer in Ethiopia</h3>
 <p align="left"> <a href="https://twitter.com/fikadubekele15" target="blank"><img src="https://img.shields.io/twitter/follow/fikadubekele15?logo=twitter&style=for-the-badge" alt="fikadubekele15" /></a> </p>
 
-- 🔭 I’m currently working on **Netlink Technologies**
+- 🔭 I’m currently working on **Blue Team Technologies**
 
 - 🌱 I’m currently learning **Flutter and laravel**
 
